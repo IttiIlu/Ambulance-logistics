@@ -1,4 +1,4 @@
-# Ambulance Logistics App - Kharkiv
+# Ambulance Logistics App
 
 Desktop application for ambulance logistics simulation in Kharkiv.
 
