@@ -1,0 +1,4 @@
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+folium>=0.15.0
+osmnx>=1.9.0
